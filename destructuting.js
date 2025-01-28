@@ -18,3 +18,8 @@ console.log(boxify(90, 34));
 
 const [first, second] = [90, 34]
 console.log(boxify(90, 34))
+
+
+// Object Destructuring
+
+const {name, age}= {name: 'alu', salary: 3000}
